@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724612180168",
+    "firebase_url": "https://chat-app-171b5.firebaseio.com",
+    "project_id": "chat-app-171b5",
+    "storage_bucket": "chat-app-171b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724612180168:android:f5e5b184a682d872a8ddfd",
+        "android_client_info": {
+          "package_name": "co.parhyme.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724612180168-e3ptkrnavvs0868lbf3nhhqshv2eheo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDnMnbeHHRJ1ccL3pFirEq5c2TNxgXbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724612180168-e3ptkrnavvs0868lbf3nhhqshv2eheo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
